@@ -61,4 +61,6 @@ prose:
     - /_includes
 
 
-gems: [jekyll-paginate, jekyll-seo-tag]
+plugins: 
+  - jekyll-paginate
+  - jekyll-seo-tag

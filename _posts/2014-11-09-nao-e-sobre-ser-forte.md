@@ -7,6 +7,8 @@ title: "Não é sobre ser forte"
 & é sobre o quão forte você aguenta ser golpeado*
 
 
+![Rock Balboa]({{site.baseurl}}/images/rock-balboa.jpg)
+
 É Rocky Balboa, poderia ser auto-ajuda, mas é só uma mini autobiografia.
 
 Se você assistir ao vídeo antes, tudo vai fazer mais sentido.

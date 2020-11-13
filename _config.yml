@@ -13,8 +13,8 @@ email: hello@email.com
 description: > # this means to ignore newlines until "baseurl:"
   Jujuba.ml.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://www.jujuba.ml" # the base hostname & protocol for your site
-brand-color: "#e74c3c"
+url: "https://www.jujuba.ml" # the base hostname & protocol for your site
+brand-color: "#E30766"
 permalink: ":title/"
 
 # Footer

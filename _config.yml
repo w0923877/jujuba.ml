@@ -8,7 +8,7 @@
 # Site settings
 title: Princesa Jujuba
 tagline: "De mim você pode esperar tudo, menos o que você está pensando!"
-picture: jujuba.jpg #keep a 100x100 image inside images folder.
+picture: jujuba.png #keep a 100x100 image inside images folder.
 email: hello@email.com
 description: > # this means to ignore newlines until "baseurl:"
   Jujuba.ml.
@@ -31,7 +31,7 @@ sass:
   style: compressed
 
 disqus-shortname: geanramos
-analytics: UA-xxxx
+analytics: UA-23114464-1
 
 include: [_pages]
 

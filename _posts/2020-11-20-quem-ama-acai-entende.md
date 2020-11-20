@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 11 coisas que só quem ama açaí com todas as forças entende
+title: "11 coisas que só quem ama açaí com todas as forças entende"
 ---
 
 Entre uma tigela de 500ml de açaí e um mozão de Ano Novo, o que você prefere? Nós, definitivamente, ficamos com a primeira opção.

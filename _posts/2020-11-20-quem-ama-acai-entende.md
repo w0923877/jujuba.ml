@@ -16,7 +16,7 @@ E você pensa que a overdose de açaí acontece só no Verão? Que nada! Para os
 1 - Quando você foi experimentar açaí pela primeira vez, provavelmente, alguém te alertou de que talvez você sentisse um leve gostinho de terra.&nbsp;
 Ou a pessoa foi mais radical ainda e disse que você não gostaria daquilo de jeito nenhum!
 
-(![Açai](http://i1.wp.com/capricho.abril.com.br/wp-content/uploads/2018/01/gif1.gif?resize=400,225)
+![Açai](http://i1.wp.com/capricho.abril.com.br/wp-content/uploads/2018/01/gif1.gif?resize=400,225)
 
 
 2 - Se você não foi se acostumando com o gosto aos poucos, &nbsp;
@@ -61,12 +61,12 @@ O problema são os complementos que colocam. Alô, leite condensado!&nbsp;
 Você sabia que, se comer peixe com açaí pelo resto da vida, vai ter uma alimentação equilibrada? É o que dizem.
 
 
-![Açai](http://i1.wp.com/capricho.abril.com.br/wp-content/uploads/2018/01/gif4.gif?resize=400,225)
+![Açai](http://i1.wp.com/capricho.abril.com.br/wp-content/uploads/2018/01/gif4.gif?resize=400,250)
 
 10 - Quando alguém diz que não gosta de açaí, você não se conforma.&nbsp;
 “Experimenta de novo, porque você tá comendo errado. Não é possível!”
 
-![Açai](http://i1.wp.com/capricho.abril.com.br/wp-content/uploads/2018/01/acai1.gif?resize=400,225)
+![Açai](http://i1.wp.com/capricho.abril.com.br/wp-content/uploads/2018/01/acai1.gif?resize=400,400)
 
 11 - Açaí puro? Que bênção!&nbsp;
 E manda mais, porque o de 500ml já tá pequeno!

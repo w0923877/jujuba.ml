@@ -5,5 +5,5 @@ permalink: /ela/
 ---
 
 <script language="JavaScript">
-location.href="https://chat.whatsapp.com/IayXZ0FMgBS5arTolAX8n2"
+location.href="https://chat.whatsapp.com/KAMgWogTXLrA4GbBuvpaIl"
 </script>
